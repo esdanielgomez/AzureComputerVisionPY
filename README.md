@@ -3,9 +3,12 @@
 ![image-alt-text](https://gokan.ms/wp-content/uploads/2017/10/sii-canada-logo-it-microsoft-mvp-most-valuable-professional.png)
 ## **Computer Vision con Python**
 
-pip install --upgrade azure-cognitiveservices-vision-computervision
+### Prerequisites
 
+```python
+pip install --upgrade azure-cognitiveservices-vision-computervision
 pip install --upgrade pillow
+```
 
 ### Imports and authenticate
 

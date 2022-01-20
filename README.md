@@ -18,8 +18,8 @@ from azure.cognitiveservices.vision.computervision.models import OperationStatus
 from msrest.authentication import CognitiveServicesCredentials
 import time
 
-subscription_key = "a55140a5edd64e7dbcd8c6d581a2ee43"
-endpoint = "https://aicomputervision3.cognitiveservices.azure.com/"
+subscription_key = "YOUR_KEY"
+endpoint = "YOUR_ENDPOINT"
 computervision_client = ComputerVisionClient(endpoint, CognitiveServicesCredentials(subscription_key))
 ```
 

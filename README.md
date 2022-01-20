@@ -102,7 +102,7 @@ else:
         object.rectangle.y, object.rectangle.y + object.rectangle.h))
 ```
 
-# Muchas gracias! 
+# Thanks! 
 
 ## **[esdanielgomez.com](esdanielgomez.com)**
 

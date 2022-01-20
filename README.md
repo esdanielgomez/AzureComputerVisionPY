@@ -1,5 +1,5 @@
 # **Azure Computer Vision in Python**
-## Created by Daniel Gomez / [esdanielgomez.com](link-URL)
+## By Daniel Gomez / [esdanielgomez.com](link-URL)
 ![image-alt-text](https://gokan.ms/wp-content/uploads/2017/10/sii-canada-logo-it-microsoft-mvp-most-valuable-professional.png)
 ## **Computer Vision con Python**
 
